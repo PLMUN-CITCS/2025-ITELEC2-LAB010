@@ -154,7 +154,7 @@ else:
    5. Print the letter grade:
       - Use the print() function to display the calculated letter grade.
 ```python
-    print("It's a hot day!")  # Indented 4 spaces
+print("Your grade is:", letter_grade)
 ```
 
    6. Complete Code: Combine the steps above to form the complete program.
